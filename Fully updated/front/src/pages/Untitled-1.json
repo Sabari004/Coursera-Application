@@ -1,0 +1,27 @@
+{"description":"ksklwerlwejrl","reply":"null","courses":{"course_id":1,"course_name":"2023 Web Development","description":"The React. JS Course Curriculum contains basic elements like introduction, JSX overview, Environmental setup, real-time applications, forms and UI, Component Lifecycle,","duration":"2 hours","fees":500,"level":"Medium","instructor":"Dr.Sanjeevi","img_url":"https://d1hdtc0tbqeghx.cloudfront.net/wp-content/uploads/2022/12/26113417/Web-Development-Trends-2023.jpg"},"user":{"user_id":1,"user_name":"Sabari_004","email":"sabari@gmail.com"},"enquiry_id":1,"enquiryId":1}
+{"description":"Hi there is an issue in duration","reply":"null","courses":[],"user":{"user_id":1,"user_name":"Sabari_004","email":"sabari@gmail.com"},"enquiry_id":1,"enquiryId":1}
+{
+    "enrolledId": 0,
+    "date": "string",
+    "status": "string",
+    "user": {
+      "user_id": 0,
+      "user_name": "string",
+      "email": "string"
+    },
+    "courses": {
+      "course_id": 0,
+      "course_name": "string",
+      "description": "string",
+      "duration": "string",
+      "fees": 0,
+      "level": "string",
+      "instructor": "string",
+      "img_url": "string",
+      "admin": {
+        "admin_id": 0,
+        "admin_name": "string",
+        "email": "string",
+        "password": "string"
+      }
+    }
